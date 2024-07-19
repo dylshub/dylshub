@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dylshub
+- 👋 Hi, I’m Dylan Rodas 
 - 👀 I’m interested in learn so much
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on proyects
