@@ -7,7 +7,7 @@
 <h3 align="center">Desarrollador de Software | Técnico IT | Apasionado por la Fotografía</h3>
 
 <p align="center">
-  📚 Estudiante de Ingeniería en Sistemas en la Universidad Mariano Gálvez, Guatemala.<br>
+
   💻 Con experiencia en desarrollo de software, bases de datos, y resolución de problemas técnicos.<br>
   📸 Autodidacta en fotografía, siempre buscando capturar el momento perfecto.
 </p>
