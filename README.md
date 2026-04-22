@@ -1,7 +1,6 @@
 <h1 align="center">¡Hola, soy Dylan Rodas! 👋</h1>
 
 <p align="center">
-  <img src="https://www.idartes.gov.co/sites/default/files/styles/cuerpo_evento/public/2021-12/Gorillaz.png?itok=9eCpmc64" alt="Bienvenida" width="500"/>
 </p>
 
 <h3 align="center">Desarrollador de Software | Técnico IT | Apasionado por la Fotografía</h3>
